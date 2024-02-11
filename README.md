@@ -3,4 +3,4 @@ Every Geometry Dash version until 2.2, downloaded by using the download_depot co
 
 **BEFORE PLAYING**: You need a Steam emulator to play these versions.
 
-**NOTICE:** *Some of the levels may have been played by me: Stereo Madness and other levels may show a percentage of the level played. Ignore that.*
+**NOTICE:** Stereo Madness and other levels may show a percentage of the level played. It is probably because you have Geometry Dash installed with Steam.*
